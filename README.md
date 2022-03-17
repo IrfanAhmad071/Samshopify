@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Samshopify
+- 👋 Hi, I’m Irfan Ahmad and username is @Samshopify
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, and Bootstrap.
-- 💞️ I’m looking to collaborate on Web Development, Design, and Softwares.
+- 💞️ I’m looking to collaborate on Web Development in PHP(Larvel Development), Design, and Softwares.
 - 📫 How to reach me ...
 
 <!---
